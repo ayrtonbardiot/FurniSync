@@ -1,0 +1,15 @@
+{
+    "app": {
+        "emulator": "plus"
+    },
+    "mysql": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "username": "root",
+        "password": "",
+        "database": "123"
+    },
+    "download": {
+        "url_furnis": "https://swf.habbocity.me/dcr/hof_furni/"
+    }
+}

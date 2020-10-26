@@ -1,0 +1,15 @@
+{
+  "name": "furnisync",
+  "version": "1.0.0",
+  "description": "Sync your database with your furnidata",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "nttZx",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "mysql": "^2.18.1"
+  }
+}

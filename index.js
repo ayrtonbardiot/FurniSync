@@ -16,7 +16,7 @@ switch (emulator) {
         query = "SELECT public_name FROM furniture";
         break;
     case "comet":
-        query = "QUERY";
+        query = "SELECT public_name FROM furniture";
         break;
     case "arcturus":
         query = "SELECT public_name FROM items_base";

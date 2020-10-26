@@ -28,7 +28,7 @@ db.query(query, function (error, results, fields) {
         console.log(results[i].public_name);
     }
     if (i === results.length) {
-        console.log('Finsished !')
+        console.log('Finished !')
         process.exit();
     }
 })

@@ -1,15 +1,17 @@
 {
     "app": {
-        "emulator": "plus"
+        "emulator": "arcturus"
     },
     "mysql": {
         "host": "127.0.0.1",
         "port": 3306,
         "username": "root",
         "password": "",
-        "database": "123"
+        "database": "arcturus"
     },
     "download": {
-        "url_furnis": "https://swf.habbocity.me/dcr/hof_furni/"
+        "enabled": true,
+        "url_furnis": "http://127.0.0.1/swf/dcr/hof_furni/",
+        "wait_dl": 2000
     }
 }

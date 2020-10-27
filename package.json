@@ -9,7 +9,10 @@
   "author": "nttZx",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.0",
     "config": "^3.3.2",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "xml2json": "^0.12.0"
   }
 }
